@@ -1,0 +1,152 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\npm\bootstrap@4.6.0\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\npm\bootstrap@4.6.0\dist\js\bootstrap.bundle.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\npm\bootstrap@5.0.2\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\npm\bootstrap@5.0.2\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\ajax\libs\jquery\2.1.3\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\ajax\libs\jquery\3.6.4\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\ajax\libs\modernizr\2.8.3\modernizr.min-1.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.4.4.min.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\jquery-1.4.4.min.js
+Content Type: application/javascript
+
+Uri: https://i.imgur.com/eQkmHx9.jpg
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\eQkmHx9.jpg
+Content Type: image/jpeg
+
+Uri: https://i.imgur.com/IO2tBwy.jpg
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\IO2tBwy.jpg
+Content Type: image/jpeg
+
+Uri: https://i.imgur.com/QtMelqo.jpg
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\QtMelqo.jpg
+Content Type: image/jpeg
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/0wa0rni0ng0.mp3
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\0wa0rni0ng0.mp3
+Content Type: audio/mpeg
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/background.png
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\background.png
+Content Type: image/png
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/before.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\before.js
+Content Type: text/javascript
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/bell.png
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\bell.png
+Content Type: image/png
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/cross.png
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\cross.png
+Content Type: image/png
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/def.png
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\def.png
+Content Type: image/png
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/fullscreen.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\fullscreen.js
+Content Type: text/javascript
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/index.html
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\index.html
+Content Type: text/html
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/light.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\light.js
+Content Type: text/javascript
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/main.css
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\main.css
+Content Type: text/css
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/main.js
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\main.js
+Content Type: text/javascript
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/microsoft.png
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\microsoft.png
+Content Type: image/png
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/minimize.jpeg
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\minimize.jpeg
+Content Type: image/jpeg
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/pc.png
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\pc.png
+Content Type: image/png
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/que.png
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\que.png
+Content Type: image/png
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/s1.gif
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\s1.gif
+Content Type: image/gif
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/setting.png
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\setting.png
+Content Type: image/png
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/virus-images.jpeg
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\virus-images.jpeg
+Content Type: image/jpeg
+
+Uri: https://jellyfish-app-4z8ii.ondigitalocean.app/0MacdbnAsh07w0Macin87/virus-scan.png
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\0MacdbnAsh07w0Macin87\virus-scan.png
+Content Type: image/png
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\font-awesome\4.5.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\font-awesome\4.5.0\fonts\fontawesome-webfont-3.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.eot?v=4.5.0
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\font-awesome\4.5.0\fonts\fontawesome-webfont-2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.svg?v=4.5.0
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\font-awesome\4.5.0\fonts\fontawesome-webfont-1.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.ttf?v=4.5.0
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\font-awesome\4.5.0\fonts\fontawesome-webfont-1.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff2?v=4.5.0
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\font-awesome\4.5.0\fonts\fontawesome-webfont-1.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/fonts/fontawesome-webfont.woff?v=4.5.0
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\font-awesome\4.5.0\fonts\fontawesome-webfont-1.woff
+Content Type: font/woff
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-XKDJPQLDJQ
+File Name: C:\Downloaded Web Sites\jellyfish-app-4z8ii.ondigitalocean.app\gtag\js-1
+Content Type: application/javascript
+
